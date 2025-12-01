@@ -21,6 +21,6 @@ Kullanıcı verilerini korumak için makul ticari çabalar gösteriyoruz.
 Bu uygulama, veri toplayan herhangi bir üçüncü taraf hizmet (Google AdMob, Google Analytics for Firebase gibi reklam veya analiz şirketleri) **KULLANMAMAKTADIR.**
 
 ### 4. İletişim
-Bu gizlilik politikası ile ilgili herhangi bir sorunuz varsa, bizimle [E-posta Adresiniz] üzerinden iletişime geçmekten çekinmeyin.
+Bu gizlilik politikası ile ilgili herhangi bir sorunuz varsa, bizimle [sanugaemcompany@gmail.com] üzerinden iletişime geçmekten çekinmeyin.
 
 *Son Güncelleme Tarihi: 03/11/2025*
