@@ -23,4 +23,4 @@ Bu uygulama, veri toplayan herhangi bir üçüncü taraf hizmet (Google AdMob, G
 ### 4. İletişim
 Bu gizlilik politikası ile ilgili herhangi bir sorunuz varsa, bizimle [sanugaemcompany@gmail.com] üzerinden iletişime geçmekten çekinmeyin.
 
-*Son Güncelleme Tarihi: 03/11/2025*
+*Son Güncelleme Tarihi: 01/12/2025*
